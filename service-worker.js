@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/qrcodepokemongo/precache-manifest.564eae83463226ab600fbae9ca2eb77f.js"
+  "/qrcodepokemongo/precache-manifest.3913faa2150b19dbeb0f087ee8505dd2.js"
 );
 
 self.addEventListener('message', (event) => {
