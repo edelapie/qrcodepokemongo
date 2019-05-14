@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/qrcodepokemongo/static/css/main.2cce8147.chunk.css",
-    "main.js": "/qrcodepokemongo/static/js/main.4c92d94d.chunk.js",
-    "main.js.map": "/qrcodepokemongo/static/js/main.4c92d94d.chunk.js.map",
+    "main.js": "/qrcodepokemongo/static/js/main.26af8ee7.chunk.js",
+    "main.js.map": "/qrcodepokemongo/static/js/main.26af8ee7.chunk.js.map",
     "runtime~main.js": "/qrcodepokemongo/static/js/runtime~main.ebb51cff.js",
     "runtime~main.js.map": "/qrcodepokemongo/static/js/runtime~main.ebb51cff.js.map",
     "static/css/2.22a7d4ef.chunk.css": "/qrcodepokemongo/static/css/2.22a7d4ef.chunk.css",
     "static/js/2.c412b100.chunk.js": "/qrcodepokemongo/static/js/2.c412b100.chunk.js",
     "static/js/2.c412b100.chunk.js.map": "/qrcodepokemongo/static/js/2.c412b100.chunk.js.map",
     "index.html": "/qrcodepokemongo/index.html",
-    "precache-manifest.3913faa2150b19dbeb0f087ee8505dd2.js": "/qrcodepokemongo/precache-manifest.3913faa2150b19dbeb0f087ee8505dd2.js",
+    "precache-manifest.1a4e389b1a33ebf7665554fb40b275b0.js": "/qrcodepokemongo/precache-manifest.1a4e389b1a33ebf7665554fb40b275b0.js",
     "service-worker.js": "/qrcodepokemongo/service-worker.js",
     "static/css/2.22a7d4ef.chunk.css.map": "/qrcodepokemongo/static/css/2.22a7d4ef.chunk.css.map",
     "static/css/main.2cce8147.chunk.css.map": "/qrcodepokemongo/static/css/main.2cce8147.chunk.css.map"

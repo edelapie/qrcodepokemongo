@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "54fcdb7436adecac3385c2708b0d525f",
+    "revision": "553be4d9e2e3d180646f98f31e3482f6",
     "url": "/qrcodepokemongo/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/qrcodepokemongo/static/css/2.22a7d4ef.chunk.css"
   },
   {
-    "revision": "0f65bb78f95c01621ed5",
+    "revision": "5bda47d775d8a0a1f30d",
     "url": "/qrcodepokemongo/static/css/main.2cce8147.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/qrcodepokemongo/static/js/2.c412b100.chunk.js"
   },
   {
-    "revision": "0f65bb78f95c01621ed5",
-    "url": "/qrcodepokemongo/static/js/main.4c92d94d.chunk.js"
+    "revision": "5bda47d775d8a0a1f30d",
+    "url": "/qrcodepokemongo/static/js/main.26af8ee7.chunk.js"
   },
   {
     "revision": "405202632a93e2a7f0d0",
